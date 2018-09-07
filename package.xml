@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>40.0</version>
+    <types>
+        <members>AInsertAction</members>
+        <members>AccessToken</members>
+        <members>AccountAssessment_TEST</members>
+        <members>test</members>
+        <members>testClass</members>
+        <members>testFindNearby</members>
+        <members>testPageExt</members>
+        <members>xxx</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Email1</members>
+        <members>FDF__FDFHeader</members>
+        <members>FieloCH__ChallengeMissionsViewDetails</members>
+        <members>FieloEE__BranchMap</members>
+        <name>ApexComponent</name>
+    </types>
+</Package>
